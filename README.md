@@ -5,4 +5,7 @@ Using this library any Pure data project should be precisely portable with some 
 The binaries only work for Windows systems,but I have included the source code if you wish to compile them for MacOS.
 Welcome for corrections and other contributions if you are interested.
 
+Note: pdquad~ object refers to the biquad~ PD object. I changed the name to avoid conflicts.
+In Max/MSP biquad~ already exists but is slighlty different than the biquad~ for PD
+
 
