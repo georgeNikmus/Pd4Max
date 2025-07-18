@@ -3,7 +3,7 @@ It enables accurate implementations of the patches/examples from M.Puckette's "T
 of Electronic Music" (https://github.com/georgeNikmus/The-Theory-and-Technique-of-Electronic-Music-Max-Patches), 
 and A.Farnell's "Designing Sound" (https://github.com/georgeNikmus/Designing-Sound-Max-Patches).
 With this library, most Pure Data projects can be ported to Max/MSP with some minor modifications.
-The binaries are currently available for Windows,but I have included the source code for those who wish to compile the objects for MacOS.
+The binaries are now available for Windows and macOS!
 Contributions and corrections are welcome!
 
 Note: The pdquad~ object corresponds to the biquad~ PD object. I changed the name to avoid conflicts, as Max/MSP already includes a biquad~ object, which is slighlty different than the biquad~ PD object.
